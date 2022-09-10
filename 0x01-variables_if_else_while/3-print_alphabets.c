@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - Print Alphabet
+ * main - Alphabet
  *
  * Return: Always 0.
+ *
  */
 
 int main(void)
@@ -11,7 +12,7 @@ int main(void)
 	char a = 'a';
 	char b = 'A';
 
-	for (a = 'a'; a <= 'Z'; a++)
+	for (a = 'a'; a <= 'z'; a++)
 	{
 		putchar(a);
 	}
