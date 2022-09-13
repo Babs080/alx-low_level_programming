@@ -3,6 +3,7 @@
 /**
  * main -  Print alphabet in lowercase using only `_putchar`
  * followed by a new line.
+ *
  * Return: Always 0.
  */
 
